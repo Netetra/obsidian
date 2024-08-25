@@ -1,4 +1,8 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Monokai"
+  "cssTheme": "Monokai",
+  "interfaceFontFamily": "FiraCode Nerd Font Mono,Noto Sans CJK JP,Noto Color Emoji",
+  "textFontFamily": "FiraCode Nerd Font Mono,Noto Sans CJK JP,Noto Color Emoji",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono,Noto Sans CJK JP,Noto Color Emoji",
+  "baseFontSize": 19
 }

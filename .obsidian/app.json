@@ -1,5 +1,6 @@
 {
   "strictLineBreaks": false,
   "tabSize": 2,
-  "vimMode": true
+  "vimMode": true,
+  "readableLineLength": false
 }
