@@ -2,5 +2,6 @@
   "strictLineBreaks": false,
   "tabSize": 2,
   "vimMode": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "livePreview": false
 }

@@ -16,26 +16,26 @@
             }
           },
           {
-            "id": "53ff19b68d3260f7",
+            "id": "90c3b6074e40ea75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "memo/自作OSをするにあたって.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
           {
-            "id": "42a935e0a5ca6905",
+            "id": "1bbcf40cfae4b29a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memo/自作言語の仕様決め.md",
+                "file": "memo/自作OSをするにあたって.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memo/自作言語の仕様決め.md",
+                "file": "memo/自作OSをするにあたって.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memo/自作言語の仕様決め.md",
+                "file": "memo/自作OSをするにあたって.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memo/自作言語の仕様決め.md"
+                "file": "memo/自作OSをするにあたって.md"
               }
             }
           }
@@ -168,9 +168,12 @@
       "markdown-importer:Markdownインポーターを開く": false
     }
   },
-  "active": "75bd8fcd5722bfa7",
+  "active": "1bbcf40cfae4b29a",
   "lastOpenFiles": [
+    "memo/自作CPU部品選定.md",
+    "memo/自作OSをするにあたって.md",
     "TODO.md",
+    "memo/カラーパレット.md",
     "memo/自作言語の仕様決め.md",
     "memo/my-lang",
     "memo",
